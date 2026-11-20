@@ -9,9 +9,9 @@
 
 <br/>
 
-<a href="https://chirag-phi-nine.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-c2cbee?style=for-the-badge&logo=vercel&logoColor=0d1117&labelColor=0d1117" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/chirag-92a279320/"><img src="https://img.shields.io/badge/LinkedIn-c2cbee?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=0d1117" alt="LinkedIn" /></a>
-<a href="mailto:vermachiraag005@gmail.com"><img src="https://img.shields.io/badge/Email-c2cbee?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117" alt="Email" /></a>
+<a href="https://chirag-phi-nine.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-c2cbee?style=for-the-badge&logo=vercel&logoColor=0d1117&labelColor=0d1117" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/chirag-92a279320/"><img src="https://img.shields.io/badge/LinkedIn-c2cbee?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=0d1117" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:vermachiraag005@gmail.com"><img src="https://img.shields.io/badge/Email-c2cbee?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117" alt="Email" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Chirag0071"><img src="https://img.shields.io/badge/GitHub-c2cbee?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117" alt="GitHub" /></a>
 
 <br/><br/>
@@ -68,7 +68,7 @@ Face auth on **128-d encodings** with **blink-based liveness detection** (Eye As
 
 `Python` `dlib` `OpenCV` `FastAPI` `MySQL` `JWT`
 
-<a href="https://github.com/Chirag0071/Secure-Vote"><img src="https://img.shields.io/badge/source_code-c2cbee?style=for-the-badge&labelColor=0d1117" alt="Source" /></a>
+<a href="https://github.com/Chirag0071/Secure-Vote"><img src="https://img.shields.io/badge/source_code-c2cbee?style=for-the-badge&labelColor=0d1117" alt="Source" /></a>&nbsp;&nbsp;&nbsp;<a href="https://secure-vote-w4gu.onrender.com/"><img src="https://img.shields.io/badge/live_demo-c2cbee?style=for-the-badge&logo=render&logoColor=0d1117&labelColor=0d1117" alt="Live demo" /></a>
 
 </td>
 </tr>
@@ -115,7 +115,7 @@ An intelligent API that automates document understanding using a combination of 
 
 `Python` `NLP` `ML` `API`
 
-<a href="https://github.com/Chirag0071/AI-Document-Analysis"><img src="https://img.shields.io/badge/source_code-c2cbee?style=for-the-badge&labelColor=0d1117" alt="Source" /></a>
+<a href="https://github.com/Chirag0071/AI-Document-Analysis"><img src="https://img.shields.io/badge/source_code-c2cbee?style=for-the-badge&labelColor=0d1117" alt="Source" /></a>&nbsp;&nbsp;&nbsp;<a href="https://ai-document-analysis.onrender.com/docs"><img src="https://img.shields.io/badge/live_api_docs-c2cbee?style=for-the-badge&logo=render&logoColor=0d1117&labelColor=0d1117" alt="Live demo" /></a>
 
 </td>
 <td width="50%" valign="top">
@@ -127,7 +127,7 @@ A Hinge/Snapchat-style dating app with a **FastAPI + PostgreSQL** backend and **
 
 `FastAPI` `PostgreSQL` `Next.js 15` `TypeScript`
 
-<a href="https://github.com/Chirag0071/Kindling"><img src="https://img.shields.io/badge/source_code-c2cbee?style=for-the-badge&labelColor=0d1117" alt="Source" /></a>
+<a href="https://github.com/Chirag0071/Kindling"><img src="https://img.shields.io/badge/source_code-c2cbee?style=for-the-badge&labelColor=0d1117" alt="Source" /></a>&nbsp;&nbsp;&nbsp;<a href="https://kindling-eight-phi.vercel.app"><img src="https://img.shields.io/badge/live_demo-c2cbee?style=for-the-badge&logo=render&logoColor=0d1117&labelColor=0d1117" alt="Live demo" /></a>
 
 </td>
 </tr>
@@ -136,20 +136,6 @@ A Hinge/Snapchat-style dating app with a **FastAPI + PostgreSQL** backend and **
 <div align="center">
 
 <a href="https://github.com/Chirag0071?tab=repositories"><img src="https://img.shields.io/badge/Browse_all_repositories-c2cbee?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117" alt="All repos" /></a>
-
-</div>
-
-<!-- ═══════════════════ ALL REPOS ═══════════════════ -->
-## 📦 Repositories
-
-<div align="center">
-
-<a href="https://github.com/Chirag0071/AI-Software-Engineer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Chirag0071&repo=AI-Software-Engineer&bg_color=0d1117&title_color=c2cbee&text_color=c2cbee&icon_color=c2cbee&border_color=c2cbee&hide_border=false" alt="AI-Software-Engineer" /></a>
-<a href="https://github.com/Chirag0071/Secure-Vote"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Chirag0071&repo=Secure-Vote&bg_color=0d1117&title_color=c2cbee&text_color=c2cbee&icon_color=c2cbee&border_color=c2cbee&hide_border=false" alt="Secure-Vote" /></a>
-<a href="https://github.com/Chirag0071/SaffronAI---Agentic-Honey-Pot-for-Scam-Detection"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Chirag0071&repo=SaffronAI---Agentic-Honey-Pot-for-Scam-Detection&bg_color=0d1117&title_color=c2cbee&text_color=c2cbee&icon_color=c2cbee&border_color=c2cbee&hide_border=false" alt="SaffronAI" /></a>
-<a href="https://github.com/Chirag0071/AI-Document-Analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Chirag0071&repo=AI-Document-Analysis&bg_color=0d1117&title_color=c2cbee&text_color=c2cbee&icon_color=c2cbee&border_color=c2cbee&hide_border=false" alt="AI-Document-Analysis" /></a>
-<a href="https://github.com/Chirag0071/Kindling"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Chirag0071&repo=Kindling&bg_color=0d1117&title_color=c2cbee&text_color=c2cbee&icon_color=c2cbee&border_color=c2cbee&hide_border=false" alt="Kindling" /></a>
-<a href="https://github.com/Chirag0071/Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Chirag0071&repo=Portfolio&bg_color=0d1117&title_color=c2cbee&text_color=c2cbee&icon_color=c2cbee&border_color=c2cbee&hide_border=false" alt="Portfolio" /></a>
 
 </div>
 
@@ -251,8 +237,8 @@ A Hinge/Snapchat-style dating app with a **FastAPI + PostgreSQL** backend and **
 
 **Building with AI or backend systems? Let's talk.**
 
-<a href="mailto:vermachiraag005@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-c2cbee?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117" alt="Email me" /></a>
-<a href="https://www.linkedin.com/in/chirag-92a279320/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-c2cbee?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=0d1117" alt="LinkedIn" /></a>
+<a href="mailto:vermachiraag005@gmail.com"><img src="https://img.shields.io/badge/Say_Hello-c2cbee?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117" alt="Email me" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/chirag-92a279320/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-c2cbee?style=for-the-badge&logo=linkedin&logoColor=0d1117&labelColor=0d1117" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://chirag-phi-nine.vercel.app/"><img src="https://img.shields.io/badge/Visit_Portfolio-c2cbee?style=for-the-badge&logo=vercel&logoColor=0d1117&labelColor=0d1117" alt="Portfolio" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:c2cbee,50:2a2f45,100:0d1117&section=footer&text=Thanks%20for%20visiting!&fontColor=0d1117&fontSize=28&fontAlignY=65" width="100%" alt="Footer" />
